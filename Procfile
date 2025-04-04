@@ -1,0 +1,1 @@
+web: gunicorn ADET-PIT3.wsgi
