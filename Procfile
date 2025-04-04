@@ -1,1 +1,1 @@
-web: gunicorn ADET-PIT3.wsgi
+web: gunicorn backend.wsgi
